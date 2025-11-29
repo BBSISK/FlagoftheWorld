@@ -1,0 +1,5 @@
+{
+  "name": "Flag of World Quiz",
+  "description": "A dynamic flag identification quiz for teenagers powered by Gemini. Features real-time generated flag images and geography trivia.",
+  "requestFramePermissions": []
+}
